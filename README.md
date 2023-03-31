@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bethel
 - 👀 I’m interested in designing web3 and SaaS products
-- 🌱 I’m majorly a no-code and low-code developer (Moralis, Bubble, Fluterflow)
+- 🌱 I’m primarily a no-code and low-code developer (Moralis, Bubble, Fluterflow)
 - 📫 You can reach me on bethelmelariri@gmail.com
